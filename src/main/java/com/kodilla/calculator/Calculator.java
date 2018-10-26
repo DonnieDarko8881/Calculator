@@ -28,5 +28,6 @@ public class Calculator {
         System.out.println("total of addition a + b = " + calculator.add(5,3));
         System.out.println("total of addition a + b + c = " + calculator.add(5,3,4));
         System.out.println("total of subtraction a - b = " + calculator.subtract(20.5, 5));
+        System.out.println("\ndodanie pustego tekstu w celu sprawdzenia czy dodaje się zmiana na git");
     }
 }
